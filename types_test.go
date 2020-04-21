@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/gobuffalo/nulls"
-	"github.com/gofrs/uuid"
+	. "github.com/cyrnicolase/nulls"
 	"github.com/jmoiron/sqlx"
 	_ "github.com/mattn/go-sqlite3"
+	uuid "github.com/satori/go.uuid"
 	"github.com/stretchr/testify/require"
 )
 

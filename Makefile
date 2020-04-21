@@ -52,7 +52,7 @@ release-test:
 	make tidy
 
 release:
-	$(GO_BIN) get github.com/gobuffalo/release
+	$(GO_BIN) get github.com/cyrnicolase/release
 	make tidy
 	release -y -f version.go --skip-packr
 	make tidy

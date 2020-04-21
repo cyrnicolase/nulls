@@ -1,4 +1,4 @@
-# github.com/gobuffalo/nulls
+# github.com/cyrnicolase/nulls
 
 This package should be used in place of the built-in null types in the `sql` package.
 
@@ -7,7 +7,7 @@ The real benefit of this packages comes in its implementation of `MarshalJSON` a
 ## Installation
 
 ``` bash
-$ go get github.com/gobuffalo/nulls
+$ go get github.com/cyrnicolase/nulls
 ```
 
 ## Supported Datatypes

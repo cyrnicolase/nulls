@@ -3,7 +3,7 @@ package nulls
 import (
 	"database/sql/driver"
 
-	"github.com/gofrs/uuid"
+	uuid "github.com/satori/go.uuid"
 )
 
 // nullable a generic representation of nulls type.

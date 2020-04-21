@@ -3,7 +3,7 @@ package nulls_test
 import (
 	"testing"
 
-	"github.com/gobuffalo/nulls"
+	"github.com/cyrnicolase/nulls"
 	"github.com/stretchr/testify/require"
 )
 
